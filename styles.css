@@ -8,28 +8,28 @@
 	width: 200px;
 	height: 200px;
 	display: inline-block;
-	overflow: hidden;
+	overflow: scroll;
 }
 .caja2{
 	background: #F40EF7;
 	width: 200px;
 	height: 200px;
 	display: inline-block;
-	overflow: hidden;
+	overflow: scroll;
 }
 .caja3{
 	background: #190EF7;
 	width: 200px;
 	height: 200px;
 	display: inline-block;
-	overflow: hidden;
+	overflow: scroll;
 }
 .caja4{
 	background: #0EE9F7;
 	width: 200px;
 	height: 200px;
 	display: inline-block;
-	overflow: hidden;
+	overflow: scroll;
 }
 
 

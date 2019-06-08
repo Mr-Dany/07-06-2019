@@ -1,35 +1,13 @@
-.stilo{
-	font-size: 15px;
-	color: blue;
-	background: grey;
+input{
+	background-color: #E5F30C;
+	color: black;
+	margin: 7px;
+	border: 2px solid #140303;
+	border-radius: 10px;
 }
-.caja1{
-	background: #F70E0E;
-	width: 200px;
-	height: 200px;
-	display: inline-block;
-	overflow: scroll;
+button{
+	background-color: #260F9D;
+	border-radius: 10px;
+	padding: 10px;
+	color: white;
 }
-.caja2{
-	background: #F40EF7;
-	width: 200px;
-	height: 200px;
-	display: inline-block;
-	overflow: scroll;
-}
-.caja3{
-	background: #190EF7;
-	width: 200px;
-	height: 200px;
-	display: inline-block;
-	overflow: scroll;
-}
-.caja4{
-	background: #0EE9F7;
-	width: 200px;
-	height: 200px;
-	display: inline-block;
-	overflow: scroll;
-}
-
-

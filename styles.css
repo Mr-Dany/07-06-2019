@@ -1,1 +1,35 @@
-styles.css
+.stilo{
+	font-size: 15px;
+	color: blue;
+	background: grey;
+}
+.caja1{
+	background: #F70E0E;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	overflow: hidden;
+}
+.caja2{
+	background: #F40EF7;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	overflow: hidden;
+}
+.caja3{
+	background: #190EF7;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	overflow: hidden;
+}
+.caja4{
+	background: #0EE9F7;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	overflow: hidden;
+}
+
+
